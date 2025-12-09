@@ -51,3 +51,4 @@ Lasso regression เป็นโมเดลทำนายปริมาณา
 - พิจารณาโมเดล regression อื่น ๆ ร่วมด้วย เช่น kNN, SVM, และ อื่นๆ​
 - พิจารณาใช้การทำนายแบบ regression ร่วมกับการตีความปัจจัยที่ส่งผลต่อยอดขายจากโมเดลด้วย SHAP ​
 
+![](https://github.com/ThitiwutM/Restaurant-data-insights-and-prediction/blob/main/model%20results.jpg?raw=true)
