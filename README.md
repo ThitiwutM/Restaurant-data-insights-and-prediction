@@ -6,6 +6,12 @@ The project aims to explore insights from restaurant sales data and identify the
 
 The process includes data type checking, data cleaning, exploratory data analysis (EDA), data visualization and dashboard creation, feature selection, data pre-processing before modeling, data pipeline development, model building, and model evaluation.
 
+โครงงานนี้เป็นโครงงานของรายวิชา DS512/513/514/515 Data Analytics and Data Science ระดับปริญญาโท มหาวิทยาลัยศรีนครินทรวิโรฒ
+
+โครงงานนี้มีวัตถุประสงค์เพื่อสำรวจข้อมูลยอดขายของร้านอาหารและหาปัจจัยสำคัญที่มีผลต่อปริมาณการขาย นอกจากนี้ยังได้พัฒนาโมเดลสำหรับการทำนายปริมาณการขาย (Quantity sold) โดยใช้เทคนิค Linear Regression และ Regularized Linear Regression (Ridge, Lasso และ Elastic Net) เพื่อสนับสนุนร้านอาหารในการปรับปรุงประสิทธิภาพและพัฒนากลยุทธ์ที่เหมาะสมในการเพิ่มยอดขาย
+
+กระบวนการทำงานประกอบด้วย การตรวจสอบประเภทข้อมูล การทำความสะอาดข้อมูล การวิเคราะห์ข้อมูลเบื้องต้น (EDA) การสร้างภาพข้อมูลและแดชบอร์ด การคัดเลือกตัวแปรสำหรับโมเดล การเตรียมข้อมูลก่อนสร้างโมเดล การพัฒนา data pipeline การสร้างโมเดล และการประเมินผลโมเดล
+
 ---
 
 **About Dataset**
