@@ -37,6 +37,8 @@ Each row represents the total quantity sold of a specific menu item at a single 
 
 ประสิทธิภาพการกำหนดราคาและโปรโมชั่น​: ราคามีความสัมพันธ์เชิงลบกับยอดขาย (r = -0.54) การให้ส่วนลดเพิ่มยอดขาย +97% แต่ลดกำไรต่อหน่วย -55% โปรโมชั่นเพิ่มยอดขาย +92% แต่ลดกำไรต่อหน่วย -39% (จาก 121 เหลือ 74 บาท) อย่างไรก็ตามกำไรรวมยังเพิ่มขึ้นเนื่องจากปริมาณขายที่สูงขึ้นมาก
 
+![](https://github.com/ThitiwutM/Restaurant-data-insights-and-prediction/blob/main/data%20distribution.jpg?raw=true)
+
 **2. การทำนายปริมาณการขายของร้านอาหาร**
 
 จากการกำหนด Target เป็น quantity_sold และ Features เป็น lag1, actual_selling_price, weather_condition, has_promotion, and special_event
